@@ -21,4 +21,5 @@ npm start
 
 ## Ссылки
 1.[Сайт на gh-pages](http://myr-irina.github.io/react-mesto-auth)
+
 2.[Макет Фигма](https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/Sprint-14-RU?node-id=0%3A1)
